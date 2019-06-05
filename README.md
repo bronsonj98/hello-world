@@ -1,2 +1,2 @@
 # hello-world
-One small step
+That's one small step for a programmer, one giant leap for mankind.
